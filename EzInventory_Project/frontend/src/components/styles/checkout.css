@@ -1,0 +1,122 @@
+.finaliseCheckoutButton{
+    font-size: 16px;
+    width: 150px;
+    height:35px;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    color: #fff;
+    background-color: #1951bb;
+    border-color: #031161;
+    float: right;
+    margin-top: 25px;
+}
+
+.deleteItemButton{
+    font-size: 16px;
+    width: 80px;
+    height:35px;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    color: #fff;
+    background-color: #eb1616;
+    border-color: #410303;
+    float: center
+}
+
+.editInvoiceButton{
+    font-size: 16px;
+    width: 120px;
+    height:35px;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    color: #fff;
+    background-color: #eb1616;
+    border-color: #410303;
+    float: center
+}
+
+.invoicePageNavigation{
+    margin-top:10px;
+    margin-bottom:15px;
+    background-color: transparent;
+}
+
+.pageHeading{
+    display: block;
+    text-align: left;
+    font-size: 25px;
+    font-weight: 400;
+}
+
+.actionBar{
+    margin-left: auto;
+}
+
+.addInvoiceButton{
+    font-size: 14px;
+    margin-right: 10px;
+    margin-top:2px;
+    height:38px;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    color: #fff;
+    background-color: green;
+    border-color: darkgreen;
+}
+
+.invoiceFormDiv{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.backButton{
+    font-weight: normal;
+    color: #337ab7;
+    border-radius: 0;
+    margin-right: 20px;
+    font-size: 16px;
+    text-align: center;
+    vertical-align: middle;
+    cursor: pointer;
+    border-color: transparent;
+    background-color: white;
+}
+
+.itemPageNavigation{
+    margin-top:10px;
+    margin-bottom:15px;
+    background-color: transparent;
+}
+
+.itemSearchForm{
+    margin-right: -15px;
+    border-top: 1px solid transparent;
+    border-bottom: 1px solid transparent;
+    float: left;
+}
+
+.itemSearchBar{
+    display: inline-block;
+    height: 38px;
+    margin-left: 10px;
+    width: auto;
+    vertical-align: middle;
+    border-color: lightgray;
+    border-style:solid;
+}

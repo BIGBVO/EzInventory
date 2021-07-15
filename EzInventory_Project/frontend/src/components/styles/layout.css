@@ -1,0 +1,53 @@
+
+.navigationBar{
+    background-color: rgba(240, 239, 239, 0.644);
+}
+
+.EzInventoryBrand{
+    float: left;
+    height: 50px;
+    padding: 15px 15px;
+    font-size: 18px;
+    line-height: 20px;
+    color: #000;
+    text-decoration: none !important;
+}
+
+.pageNavigation{
+    float: left !important;
+}
+
+.pageNavigationItem{
+    color: grey;
+    text-decoration: none !important;
+    margin-left: 10px;
+}
+
+.authLink{
+    margin-left: auto;
+    margin-top: 2;
+}
+
+.welcomeText{
+    margin-top: 15px;
+    margin-bottom: 15px;
+    margin-right: 20px;
+}
+
+.logOutButton{
+    float: right;
+    margin-top: 5px;
+    padding: 6px 12px;
+    height: 40px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 1px solid transparent;
+    border-radius: 4px;
+    color: #fff;
+    background-color: #9752b8;
+    border-color: #390ba5;
+}
