@@ -1,6 +1,12 @@
-# project_17 (EzInventory)
+# EzInventory
 
 EzInventory is a web-base application that provide stock managemenet that is integrated with sales tailored and targetted for small business owner in the retail industry
+
+# Developers
+* Vincent Onasis (vona0880/BIGBVO): Team leader, full stack developer, tester.
+* Boran Wang (bwan3230): Frontend developer, designer, and tester.
+* Tan Luo (tluo9434): Backend developer, database administrator, and tester.
+* Yuqi Sun (ysun7190): Backend developer, designer, and tester.
 
 ## General Rules
 
